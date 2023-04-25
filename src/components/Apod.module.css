@@ -1,0 +1,23 @@
+.apod {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .apod-image {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 1rem 0;
+  }
+  
+  .apod-title {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+  }
+  
+  .apod-description {
+    font-size: 1.2rem;
+    line-height: 1.5;
+  }
+  
